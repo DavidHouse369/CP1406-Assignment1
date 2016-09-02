@@ -1,0 +1,80 @@
+h1 {
+    font-family: "Segoe Marker";
+    color: #f0c651;
+    text-shadow: black -0.1em -0.1em 0.2em,
+    black -0.1em 0.1em 0.2em,
+    black 0.1em 0.1em 0.2em,
+    black 0.1em -0.1em 0.2em,
+    black 0.2em 0 0.2em,
+    black -0.2em 0 0.2em,
+    black 0 0.2em 0.2em,
+    black 0 -0.2em 0.2em;
+}
+
+h2 {
+    line-height: 50%;
+    word-spacing: 1em;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+    text-shadow: black -0.1em -0.1em 0.2em,
+    black -0.1em 0.1em 0.2em,
+    black 0.1em 0.1em 0.2em,
+    black 0.1em -0.1em 0.2em,
+    black 0.2em 0 0.2em,
+    black -0.2em 0 0.2em,
+    black 0 0.2em 0.2em,
+    black 0 -0.2em 0.2em,
+    #f0c651 0 0 0.2em;
+    text-decoration: none;
+    border-bottom: 3px;
+    border-bottom-style: inset;
+    border-bottom-color: white;
+    padding: 1em;
+}
+
+h3 {
+    font-family: "Segoe Marker";
+    color: #f0c651;
+    text-shadow: black -0.1em -0.1em 0.2em,
+    black -0.1em 0.1em 0.2em,
+    black 0.1em 0.1em 0.2em,
+    black 0.1em -0.1em 0.2em,
+    black 0.2em 0 0.2em,
+    black -0.2em 0 0.2em,
+    black 0 0.2em 0.2em,
+    black 0 -0.2em 0.2em;
+}
+
+body {
+    background-image: url("Images/sand(edited).jpg");
+    font-family: "Calibri";
+    font-size: x-large;
+    color: white;
+    text-shadow: black -0.1em -0.1em 0.2em,
+    black -0.1em 0.1em 0.2em,
+    black 0.1em 0.1em 0.2em,
+    black 0.1em -0.1em 0.2em,
+    black 0.2em 0 0.2em,
+    black -0.2em 0 0.2em,
+    black 0 0.2em 0.2em,
+    black 0 -0.2em 0.2em;
+    text-align: center;
+}
+
+a {
+    word-spacing: normal;
+    color: white;
+    font-weight: bold;
+    text-shadow: #f0c651 0 0 0.2em,
+    #f0c651 0 0 0.2em,
+    black -0.1em -0.1em 0.2em,
+    black -0.1em 0.1em 0.2em,
+    black 0.1em 0.1em 0.2em,
+    black 0.1em -0.1em 0.2em,
+    black 0.2em 0 0.2em,
+    black -0.2em 0 0.2em,
+    black 0 0.2em 0.2em,
+    black 0 -0.2em 0.2em;
+    text-decoration: none;
+}
